@@ -1,0 +1,5 @@
+results/
+slaveinput/
+
+test/results/
+test/__pycache__
